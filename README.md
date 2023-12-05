@@ -17,7 +17,7 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
  CRUSH-ERROR-SAKURAV3
  ```
 
-♦️ REVIEW AUTOSCRIPT SAMPLE BELOW <br>
+♦️ REVIEW AUTOSCRIPT SAMPLE <br>
 
 <b>
 <br>
