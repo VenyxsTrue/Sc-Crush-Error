@@ -1,9 +1,15 @@
 ### INFORMATION <br>
-♦️ For Debian 10 Only <br>
+♦️ For Debian Only <br>
  
   ```html
  apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot
   ```
+
+♦️ For Ubuntu Only <br>
+ 
+  ```html
+apt update && apt upgrade -y && update-grub && sleep 2 && reboot
+```
 
 ♦️ Installation Link<br>
 
