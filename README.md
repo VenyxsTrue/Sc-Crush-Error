@@ -1,4 +1,11 @@
 ### INFORMATION <br>
+
+### TERIMA KASIH BUAT BANG SAKURA V3
+
+### YG TELAH MEMBUAT SC FREE INI
+
+### TIDAK BOLEH DI PERJUAL BELIKAN
+
 ♦️ For Debian Only <br>
  
   ```html
